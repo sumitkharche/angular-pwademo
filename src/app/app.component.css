@@ -1,0 +1,11 @@
+.post-card {
+    max-width: 400px !important;
+  }
+
+.post-margin{
+    margin-bottom: 16px;
+}
+
+.post{
+    display: flex;
+}
