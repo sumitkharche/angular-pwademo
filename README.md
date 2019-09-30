@@ -1,5 +1,5 @@
 # Pwademo
-
+Basic PAW demo app which is built using Angular. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
 ## Development server
@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Lighthouse
+
+To check PWA score, you can open chrome devtool and check PWA score.
